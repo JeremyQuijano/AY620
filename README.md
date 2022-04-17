@@ -1,2 +1,2 @@
 # AY620
-Programs made for AY620 course at The University of Alabama
+Notebooks used for AY620 - Extragalactic Astronomy course at The University of Alabama
